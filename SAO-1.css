@@ -1,0 +1,98 @@
+body {
+    background-image: url(https://img00.deviantart.net/cbee/i/2018/032/1/4/sao_background_by_ouressi_hime_d6g4zmc_by_abdalhadealani-dc1toog.jpg);
+    background-repeat: no-repeat;
+    background-size: 1359px 800px;
+    background-color: #0B1B35;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    color: aquamarine;
+    border: double;
+    border-color: mediumpurple;
+}
+
+input {
+    color: orangered;
+    background-color: darkred;
+    border-color: darkred;
+}
+
+
+.button3 {
+    background-color: #0B1B35; 
+    color: white; 
+    border: 2px solid #f44336;
+}
+
+.button3:hover {
+    background-color: #f44336;
+    color: white;
+}
+
+
+
+
+
+.button {
+    display: block;
+    width: 375px;
+    height: 10px;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+video {
+    display: block;
+margin: 0 auto;
+}
+
+
+
+
+a {
+   color: #5900b3;
+   text-decoration: none;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+}
+
+li {
+    float: right;
+width: 33.3%
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
