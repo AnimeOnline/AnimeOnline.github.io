@@ -1,34 +1,36 @@
 body {
-    background-image: url(https://cdn.shopify.com/s/files/1/0747/3829/products/mz1286_1024x1024.jpeg?v=1485014996);
+    background-image: url(https://images2.alphacoders.com/743/thumb-1920-743924.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #0B1B35;
+    background-color: black;
     background-attachment: fixed;
 }
 
 h1 {
     text-align: center;
-    color: aquamarine;
+    color: aqua;
     border: double;
-    border-color: mediumpurple;
+    border-color: darkblue;
+    background-color: grey;
+    opacity: 0.75;
 }
 
 input {
-    color: orangered;
-    background-color: darkred;
-    border-color: darkred;
+    color: aqua;
+    background-color: aqua;
+    border-color: aqua;
 }
 
 
 .button3 {
-    background-color: #0B1B35; 
+    background-color: black; 
     color: white; 
-    border: 2px solid #f44336;
+    border: 2px solid aqua;
 }
 
 .button3:hover {
-    background-color: #f44336;
-    color: white;
+    background-color: aqua;
+    color: black;
 }
 
 
@@ -39,11 +41,11 @@ input {
     display: block;
     width: 375px;
     height: 10px;
-    background: #4E9CAF;
+    background: darkcyan;
     padding: 10px;
     text-align: center;
     border-radius: 5px;
-    color: white;
+    color: black;
     font-weight: bold;
 }
 
@@ -81,7 +83,7 @@ ul {
 
 li {
     float: left;
-width: 33%;
+width: 33%
 }
 
 li a {
